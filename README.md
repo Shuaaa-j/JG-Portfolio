@@ -3,8 +3,6 @@
 ## 🏅 Certifications & Current Focus
 ![Studying](https://img.shields.io/badge/Studying-Microsoft%20SC--300-blue?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Studying](https://img.shields.io/badge/Studying-CompTIA%20Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white)
-![Learning](https://img.shields.io/badge/Learning-Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Learning](https://img.shields.io/badge/Learning-Microsoft%20Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### Achieved Certifications
 *   **Google** | IT Support Professional (*CompTIA A+ Equivalent*)
@@ -58,9 +56,10 @@
 ### 🤖 Network Anomaly & Security Auditor Engines (Machine Learning & Deep Learning Studies)
 *   **FitnessGuard: A Hardened IoT Biometric Auditor for National Security and Military Readiness:** An Internet of Battlefield Things (IoBT) security solution deploying a dual-model machine learning pipeline. Implements a Random Forest noise filter alongside a 3-layer deep Multi-Layer Perceptron (MLP) feed-forward neural network to achieve an ROC-AUC of 0.83 against non-linear adversarial data poisoning. Features a SHA-256 cryptographic integrity gate provenance check and statistical Z-score anomaly filtering via SciPy.
     *   👉 [View IoT Security Paper](./03-Artificial-Intelligence-&-Full-Stack-Software-Engineering/IOT%20Security%20Paper.pdf)
-*   **Clustering-Based Intrusion Detection Study:** An unsupervised machine learning study evaluating K-Means and Agglomerative Hierarchical Clustering algorithms using the `CICIDS2017` network traffic dataset[cite: 1]. Assesses structural trade-offs between computational scalability and cluster interpretability across both unsupervised (Silhouette/Davies-Bouldin) and supervised performance metrics, backed by an interactive Streamlit application deployment[cite: 1].
+    *  💻 [Browse Project Code Repositories & Applications](https://github.com/AI-CS-Y2/SA2-Shuaaa-j.git)
+*   **Clustering-Based Intrusion Detection Study:** An unsupervised machine learning study evaluating K-Means and Agglomerative Hierarchical Clustering algorithms using the `CICIDS2017` network traffic dataset. Assesses structural trade-offs between computational scalability and cluster interpretability across both unsupervised (Silhouette/Davies-Bouldin) and supervised performance metrics, backed by an interactive Streamlit application deployment.
     *   👉 [View Research Paper (PDF)](./03-Artificial-Intelligence-&-Full-Stack-Software-Engineering/Clustering-Based%20Intrusion%20Detection_%20A%20Comparative%20Analysis%20Study%20of%20K-Means%20%26%20Hierarchical%20Methods.pdf)
-    *   💻 [Browse Project Code Repositories & Applications](https://github.com/AI-CS-Y2/SA2-Shuaaa-j.git)[cite: 1]
+    *   💻 [Browse Project Code Repositories & Applications](https://github.com/AI-CS-Y2/SA2-Shuaaa-j.git)
 
 ### 💻 Full-Stack Architecture & Cryptographic System Applications
 *   **OkeyDokey Standalone Desktop Password Manager:** A secure, decentralized desktop credential vault developed in Python under the Scrum Agile framework. Features strict local AES-256 equivalent data encryption (Fernet), cryptographic PIN-protected verification loops, an automated password complexity generator, and complete CRUD record operations, operating entirely offline to eliminate third-party dependencies.
@@ -88,6 +87,8 @@
 ---
 
 ## 🧰 Tools & Technologies
+![Learning](https://img.shields.io/badge/Learning-Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Learning](https://img.shields.io/badge/Learning-Microsoft%20Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### Operating Systems & Virtualization Infrastructure
 ![Windows OS](https://img.shields.io/badge/Windows_OS-0078D4?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-60BE1B?style=for-the-badge&logo=vmware&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
