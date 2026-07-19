@@ -33,10 +33,10 @@ Welcome to Joshua's portfolio! 👋 For any inquiries, feel free to message @ Jo
 *This layer establishes the threat context, user awareness standards, and the operational recovery playbooks mandated by enterprise compliance frameworks.*
 
 *   **The Paradox of Digital Literacy: The Role of the Cyber Hygiene Gap in Increasing Social Engineering Susceptibility Among Young Adults in the UAE:** 
-    A quantitative multi-phase study ($N=113$) authored by Joshua Renzo Gofulco[cite: 2]. Grounded in Protection Motivation Theory (PMT), the research maps how technical proficiency induces an overconfidence bias that collapses threat appraisals under psychological levers of Authority and Urgency[cite: 2].
+    A quantitative multi-phase study ($N=113$) authored by Joshua Renzo Gofulco. Grounded in Protection Motivation Theory (PMT), the research maps how technical proficiency induces an overconfidence bias that collapses threat appraisals under psychological levers of Authority and Urgency.
     *   👉 [View Research Paper](./01-Governance-Risk-Compliance-and-Law/Research_Paper_Phishing.pdf)
 *   **Evaluating Risk and Resilience: A Risk Management Framework for the Pingu Acquisition:** 
-    Analyzes a post-acquisition "Compliance Paradox" to transition an organization from a flat-network topology to a structured Zero Trust Architecture (ZTA) and Defense-in-Depth (DiD) posture using a tri-framework baseline (ISO/IEC 27001, NIST CSF, and Cyber Essentials Plus)[cite: 3].
+    Analyzes a post-acquisition "Compliance Paradox" to transition an organization from a flat-network topology to a structured Zero Trust Architecture (ZTA) and Defense-in-Depth (DiD) posture using a tri-framework baseline (ISO/IEC 27001, NIST CSF, and Cyber Essentials Plus).
     *   👉 [View Risk Management Framework](./01-Governance-Risk-Compliance-and-Law/Risk_Management_Framework_Pingu_Acquisition.pdf)
 
 ---
@@ -46,9 +46,9 @@ Welcome to Joshua's portfolio! 👋 For any inquiries, feel free to message @ Jo
 
 *   **Cyber Offence Simulations Portfolio:** A technical portfolio detailing the execution of 99 distinct offensive tasks across a 10-week curriculum. Validated advanced scanning evasion, unauthenticated Active Directory/LDAP schema extraction ($T1087.002$), LLMNR/NBT-NS broadcast poisoning ($T1557.001$) via Responder, asynchronous network profiling using sx and Unicornscan, and more.
     *   👉 [View 390-Page Portfolio (Google Docs)](https://docs.google.com/document/d/1AejQFfuJbAlt4ubGGYppA03NVkl1UdHtRSsUFw1xezo/edit?usp=sharing)
-*   **BriteSpark Enterprise Malware Analysis:** Static and dynamic forensic analysis of `SampleMal.exe` using Ghidra, IDA Pro, and an isolated INetSim environment[cite: 4]. Traced file system manipulation, registry persistence ($T1547.001$), and outbound FTP data exfiltration ($T1041$), using local DNS redirection and Netcat on port 21 to intercept credentials.
+*   **BriteSpark Enterprise Malware Analysis:** Static and dynamic forensic analysis of `SampleMal.exe` using Ghidra, IDA Pro, and an isolated INetSim environment. Traced file system manipulation, registry persistence ($T1547.001$), and outbound FTP data exfiltration ($T1041$), using local DNS redirection and Netcat on port 21 to intercept credentials.
     *   👉 [View Vulnerability Assessment Report](./02-Cyber-Offence-&-Defence/Network%20Intrusion%20Analysis%20Report.pdf)
-*   **Digital Forensic Investigation Report:** A comprehensive corporate investigation detailing the forensic acquisition and deep artifact analysis of an employee workstation linked to unauthorized data transfers, appropriate behavior tracking, and policy/UAE law violations[cite: 4]. Implemented a forensically sound workflow utilizing FTK Imager for bit-stream disk acquisition and Autopsy for processing registry hives, shellbags, web cache records, and hidden partitions[cite: 4]. Traced usage of illicit utility suites (LOIC, Sleuth Kit, COFFEE, Spam Mimic, and PDF password crackers) to document evidence chains and construct a legally sustainable timeline[cite: 4].
+*   **Digital Forensic Investigation Report:** A comprehensive corporate investigation detailing the forensic acquisition and deep artifact analysis of an employee workstation linked to unauthorized data transfers, appropriate behavior tracking, and policy/UAE law violations. Implemented a forensically sound workflow utilizing FTK Imager for bit-stream disk acquisition and Autopsy for processing registry hives, shellbags, web cache records, and hidden partitions. Traced usage of illicit utility suites (LOIC, Sleuth Kit, COFFEE, Spam Mimic, and PDF password crackers) to document evidence chains and construct a legally sustainable timeline.
     *   👉 [View Forensic Investigation Report (PDF)](./02-Cyber-Offence-&-Defence/Digital%20Forensic%20Investigation%20Report.pdf)
 ---
 
