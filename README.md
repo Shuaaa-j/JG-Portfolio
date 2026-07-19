@@ -1,6 +1,6 @@
 # JG Master Portfolio: Cybersecurity, Artificial Intelligence & IT Fundamentals
 <p align="center">
-  <img src="https://img.shields.io/badge/-Education%20is%20the%20most%20powerful%20weapon%20which%20you%20can%20use%20to%20change%20the%20world.—%20Nelson%20Mandela-blueviolet?style=for-the-badge&labelColor=23272A" alt="Nelson Mandela Quote Banner" width="100%" />
+  <img src="https://img.shields.io/badge/-Education%20is%20the%20most%20powerful%20weapon%20which%20you%20can%20use%20to%20change%20the%20world%20—%20Nelson%20Mandela-blueviolet?style=for-the-badge&labelColor=23272A" alt="Nelson Mandela Quote Banner" width="100%" />
 </p>
 Welcome to Joshua's portfolio! 👋 For any inquiries, feel free to message @ JoshuaGofulco246@gmail.com
 
