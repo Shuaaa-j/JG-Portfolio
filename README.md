@@ -1,14 +1,13 @@
-# JG-Portfolio
-Master portfolio mapping advanced technical execution across GRC, cyber offense, defense, digital forensics, IoT security, AI,  and full-stack software engineering
+JG-Portfolio
 # Master Portfolio: Cybersecurity, Technical GRC & Systems Engineering
 
 ## Executive Summary
-This repository serves as a centralized master portfolio consolidating my complete technical trajectory across offensive security, defensive operations, digital forensics, critical infrastructure protection, and software engineering. The coursework, projects, and research papers documented here map directly to academic models and industry-standard security frameworks.
+This repository serves as a centralized portfolio consolidating my complete work across GRC, cyber offense, defense, digital forensics, IoT security, AI,  and full-stack software engineering. The coursework, projects, and research papers documented here map directly to academic models and industry-standard security frameworks.
 
 ---
 
-## Core Technical Competencies & Academic Tracking
-*   **Offensive Security & Analysis:** Cyber Offense Methodology, Intrusion Analysis & Response, Penetration Testing, Active Directory Audit, Packet Crafting.
+## Core Technical Competencies & Academic Tracking (Courses taken)
+*   **Offensive Security & Analysis:** Cyber Offense Methodology, Intrusion Analysis & Response, Penetration Testing.
 *   **Defensive Operations & Analytics:** Cyber Defence Operations, Cyber Resilience Planning, Network Administration, Log Analysis, Traffic Sniffing.
 *   **Specialized Domain Security:** Securing the Internet of Things (IoT), Critical Infrastructure Protection, Digital Forensics & Incident Response.
 *   **Governance, Law & Data Science:** Cyber Crime Law & Ethics, Artificial Intelligence & Behavioral Modeling, Database Administration.
