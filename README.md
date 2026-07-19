@@ -1,11 +1,43 @@
-<h1 align="center">Hi 👋, I'm Joshua Gofulco</h1>
-<h3 align="center">A passionate Cybersecurity graduate focusing on GRC</h3>
+# Master Portfolio: Cybersecurity, Artificial Intelligence & IT Fundamentals
 
-- 📫 How to reach me **Joshuagofulco246@gmail.com**
+## Executive Summary
+This repository serves as a centralized portfolio consolidating my complete work across GRC, cyber offense, defense, digital forensics, IoT security, AI,  and full-stack software engineering. The coursework, projects, and research papers documented here map directly to academic models and industry-standard security frameworks.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Core Technical Competencies & Academic Tracking | Courses taken (Overall Weighted Grade 4.0)
+* **Fundamentals:** Introduction to Computing, Fundamentals of Cyber Security, Codelab I & II, Web Dev 1, Databases, Software Engineering, Network Administration
+* **Blue Team & Defensive Security:** Digital Forensics, Cyber Resilience, Intrusion Analysis and Response, Cyber Defence, Securing the Internet of Things, Critical Infrastructure
+* **Red Team & Offensive Security:** Cyber Offence
+* **GRC (Governance, Risk, and Compliance):** Cyber Crime, Law and Ethics
+* **Advanced Technologies & Research:** Artificial Intelligence, Research Project
+
+---
+
+## 📁 01 | Governance, Risk, Compliance (GRC) & Strategy
+*This layer establishes the threat context, user awareness standards, and the operational recovery playbooks mandated by enterprise compliance frameworks.*
+
+*   **Human-Vector Vulnerability Analysis (Phishing Research Paper):** A comprehensive research paper evaluating psychological pretexts, social engineering execution mechanics, and corporate defensive training frameworks designed to mitigate credential harvesting.
+    *   [View Research Paper](./01-Governance-Risk-Compliance-and-Law/Research_Paper_Phishing.pdf)
+*   **Enterprise Incident Response & Recovery Frameworks:** Structured disaster recovery plans and intrusion response playbooks detailing system containment, evidence preservation, and business continuity baselines following critical perimeter compromises.
+    *   [View Recovery Plans](./01-Governance-Risk-Compliance-and-Law/Intrusion_Analysis_Recovery_Plans.pdf)
+
+---
+
+## 📁 02 | Offensive Operations & Defensive Analytics
+*This hands-on technical validation layer demonstrates how simulated attacks are executed to test GRC policies, paired with active defensive tools used to monitor and assess infrastructure safety.*
+
+*   **Enterprise Infrastructure Offense Portfolio (99-Task Lab Report):** A massive, 390-page technical dossier covering Active Directory object extraction, unauthenticated LDAP/NetBIOS enumeration, custom packet crafting via Hping3, and LLMNR local broadcast poisoning.
+    *   [View 390-Page Portfolio](./02-Offensive-Operations-and-Defensive-Analytics/Enterprise_Security_Offense_Labs.pdf)
+*   **Corporate Security Posture Assessments:** Deep-dive defensive reviews executing vulnerability scans (Nessus, OpenVAS) and active configuration auditing against live networks to calculate CVSS severity thresholds and map out perimeter exposure layers.
+    *   [View Security Assessments](./02-Offensive-Operations-and-Defensive-Analytics/Company_Security_Posture_Assessments.pdf)
+
+---
+
+## 📁 03 | Software, Automation & Systems Engineering
+*The building and automation layer. This section focuses on secure systems design and leveraging artificial intelligence to scale threat detection mechanisms.*
+
+*   **AI-Driven Network Intrusion Detection Systems:** Deployed machine learning classification pipelines and behavioral modeling scripts engineered to identify and isolate real-time network anomalies and malicious traffic signatures.
+    *   [Browse AI Source Code](./03-Software-and-Systems-Engineering/AI_Intrusion_Detection_Models/)
+*   **Curated Threat Intelligence Datasets:** Structured data repositories and traffic feature sets utilized to train, test, and validate the precision limits of automated behavioral detection algorithms.
+    *   [Browse Datasets](./03-Software-and-Systems-Engineering/Datasets/)
