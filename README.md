@@ -3,6 +3,8 @@
 ## 🏅 Certifications & Current Focus
 ![Studying](https://img.shields.io/badge/Studying-Microsoft%20SC--300-blue?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Studying](https://img.shields.io/badge/Studying-CompTIA%20Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white)
+![Learning](https://img.shields.io/badge/Learning-Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Learning](https://img.shields.io/badge/Learning-Microsoft%20Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### Achieved Certifications
 *   **Google** | IT Support Professional (*CompTIA A+ Equivalent*)
@@ -72,46 +74,48 @@
 ---
 ## 🛠️ Skills & Project Mapping
 
-| Skill | Associated Project |
+| Target Industry Role Skill | Associated Project |
 | :--- | :--- |
-| GRC Policy Formulation & Threat Appraisals | [The Paradox of Digital Literacy](#-01--governance-risk-compliance-grc--strategy) |
-| Zero Trust Transitioning & Defense-in-Depth Baselines | [Risk Management Framework (Pingu Acquisition)](#-01--governance-risk-compliance-grc--strategy) |
-| Active Directory Pentesting & Subnet Profiling | [Cyber Offence Simulations Portfolio](#-02--offensive-operations--defensive-analytics) |
-| Static/Dynamic Malware Triage & Forensic Analysis | [BriteSpark Enterprise Malware Analysis](#-02--offensive-operations--defensive-analytics) |
-| Dual-Model Neural Networks & Data Poisoning Mitigation | [FitnessGuard (IoT Biometric Auditor)](#-03--artificial-intelligence--full-stack-software-engineering) |
-| Unsupervised Clustering (K-Means vs. Hierarchical) | [Clustering-Based Intrusion Detection Study](#-03--artificial-intelligence--full-stack-software-engineering) |
-| Cryptographic Vault Design & Secure Desktop Development | [OkeyDokey Standalone Desktop Password Manager](#-03--artificial-intelligence--full-stack-software-engineering) |
-| Full-Stack Frontend Design & Asynchronous State Manipulation | [Interactive Gaming Database Web Application](#-03--artificial-intelligence--full-stack-software-engineering) |
+| **GRC Auditing & Security Awareness Training** | [The Paradox of Digital Literacy](#-01--governance-risk-compliance-grc--strategy) |
+| **Enterprise Risk Assessment & Zero Trust Architecture (ZTA)** | [Risk Management Framework (Pingu Acquisition)](#-01--governance-risk-compliance-grc--strategy) |
+| **Vulnerability Management & Active Network Pentesting** | [Cyber Offence Simulations Portfolio](#-02--offensive-operations--defensive-analytics) |
+| **SOC Triage & Static/Dynamic Malware Forensics** | [BriteSpark Enterprise Malware Analysis](#-02--offensive-operations--defensive-analytics) |
+| **Deep Learning & Adaptive IoT Anomaly Detection** | [FitnessGuard (IoT Biometric Auditor)](#-03--artificial-intelligence--full-stack-software-engineering) |
+| **Data Science Pipelines & Machine Learning Classification** | [Clustering-Based Intrusion Detection Study](#-03--artificial-intelligence--full-stack-software-engineering) |
+| **Secure Application Development & Cryptographic Lifecycle** | [OkeyDokey Standalone Desktop Password Manager](#-03--artificial-intelligence--full-stack-software-engineering) |
+| **Full-Stack Frontend Design & Client-Side State Management** | [Interactive Gaming Database Web Application](#-03--artificial-intelligence--full-stack-software-engineering) |
 
 ---
 
 ## 🧰 Tools & Technologies
 
-### Virtualization & Operating Systems
+### Operating Systems & Virtualization Infrastructure
 ![Windows OS](https://img.shields.io/badge/Windows_OS-0078D4?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-60BE1B?style=for-the-badge&logo=vmware&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
-### Networking & Infrastructure
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-005EA2?style=for-the-badge&logo=cisco&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Networking](https://img.shields.io/badge/Networking-Cisco-049Y75?style=for-the-badge&logo=cisco&logoColor=white)
+### Directory Architecture & Network Layouts
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-005EA2?style=for-the-badge&logo=cisco&logoColor=white) ![Networking](https://img.shields.io/badge/Networking-Cisco-049Y75?style=for-the-badge&logo=cisco&logoColor=white)
 
-### Enterprise Platforms & Cloud Identity
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft-365&logoColor=white) ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-2563EB?style=for-the-badge&logo=microsoft&logoColor=white)
+### Enterprise Operations & Help Desk Case Management
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft-365&logoColor=white) ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-2563EB?style=for-the-badge&logo=microsoft&logoColor=white) ![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white)
 
-### Frameworks & Governance Standardizations
-![NIST CSF](https://img.shields.io/badge/NIST_CSF-DarkBlue?style=for-the-badge) ![ISO 27001](https://img.shields.io/badge/ISO_27001-Blue?style=for-the-badge) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF6600?style=for-the-badge)
+### GRC Regulatory Standards & Control Frameworks
+![NIST CSF](https://img.shields.io/badge/NIST_CSF-DarkBlue?style=for-the-badge) ![ISO 27001](https://img.shields.io/badge/ISO_27001-Blue?style=for-the-badge) ![PCI DSS](https://img.shields.io/badge/PCI_DSS-Orange?style=for-the-badge) ![GDPR Compliance](https://img.shields.io/badge/GDPR_Compliance-DarkGreen?style=for-the-badge) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF6600?style=for-the-badge)
 
-### Databases & Query Languages
+### Databases & Structure Models
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-Black?style=for-the-badge)
 
-### Cyber Offence & Pentesting Environment
+### Penetration Testing & Command-Line Exploitation Environment
 ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-Kali_Linux-4B0082?style=for-the-badge&logo=kali-linux&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-007ACC?style=for-the-badge&logo=nmap&logoColor=white) ![Responder](https://img.shields.io/badge/Responder-Orange?style=for-the-badge) ![John the Ripper](https://img.shields.io/badge/John_The_Ripper-Purple?style=for-the-badge) ![Unicornscan](https://img.shields.io/badge/Unicornscan-DarkRed?style=for-the-badge) ![sx](https://img.shields.io/badge/sx-Grey?style=for-the-badge) ![Hping3](https://img.shields.io/badge/Hping3-Red?style=for-the-badge)
 
-### Defensive Analytics, SIEM & Forensics
+### Log Aggregation, Defensive SIEM & Forensic Triage
 ![Splunk](https://img.shields.io/badge/Splunk-Black?style=for-the-badge&logo=splunk&logoColor=black) ![Wireshark](https://img.shields.io/badge/Wireshark-2B5B84?style=for-the-badge&logo=wireshark&logoColor=white) ![Ghidra](https://img.shields.io/badge/Ghidra-Green?style=for-the-badge) ![IDA Pro](https://img.shields.io/badge/IDA_Pro-Black?style=for-the-badge) ![Procmon](https://img.shields.io/badge/Procmon-Blue?style=for-the-badge) ![INetSim](https://img.shields.io/badge/INetSim-Grey?style=for-the-badge) ![Netcat](https://img.shields.io/badge/Netcat-DarkGreen?style=for-the-badge)
 
-### Artificial Intelligence & Deep Learning Engines
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Multi--Layer Perceptron (MLP)](https://img.shields.io/badge/Deep_Learning-MLP_Neural_Network-blueviolet?style=for-the-badge) ![Adam Optimizer](https://img.shields.io/badge/Optimizer-Adam-darkcyan?style=for-the-badge) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+### Systems Automation, Core Programming & AI Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Multi-Layer Perceptron (MLP)](https://img.shields.io/badge/Deep_Learning-MLP_Neural_Network-blueviolet?style=for-the-badge) ![Adam Optimizer](https://img.shields.io/badge/Optimizer-Adam-darkcyan?style=for-the-badge) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
+### Web Development Frontend Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0078D4&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=120&section=footer" />
 </p>
