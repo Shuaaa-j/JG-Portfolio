@@ -7,11 +7,11 @@ This repository serves as a centralized portfolio consolidating my complete work
 ---
 
 ## Core Technical Competencies & Academic Tracking (Courses taken)
-*   **Offensive Security & Analysis:** Cyber Offense Methodology, Intrusion Analysis & Response, Penetration Testing.
-*   **Defensive Operations & Analytics:** Cyber Defence Operations, Cyber Resilience Planning, Network Administration, Log Analysis, Traffic Sniffing.
-*   **Specialized Domain Security:** Securing the Internet of Things (IoT), Critical Infrastructure Protection, Digital Forensics & Incident Response.
-*   **Governance, Law & Data Science:** Cyber Crime Law & Ethics, Artificial Intelligence & Behavioral Modeling, Database Administration.
-*   **Software Engineering:** Secure Full-Stack Web Development, API Integration, CodeLab I & II Core Programming.
+* **Fundamentals:** Introduction to Computing, Fundamentals of Cyber Security, Codelab I & II, Web Dev 1, Databases, Software Engineering, Network Administration
+* **Blue Team & Defensive Security:** Digital Forensics, Cyber Resilience, Intrusion Analysis and Response, Cyber Defence, Securing the Internet of Things, Critical Infrastructure
+* **Red Team & Offensive Security:** Cyber Offence
+* **GRC (Governance, Risk, and Compliance):** Cyber Crime, Law and Ethics
+* **Advanced Technologies & Research:** Artificial Intelligence, Research Project
 
 ---
 
