@@ -17,10 +17,10 @@ This repository serves as a centralized portfolio consolidating my complete work
 ## 📁 01 | Governance, Risk, Compliance (GRC) & Strategy
 *This layer establishes the threat context, user awareness standards, and the operational recovery playbooks mandated by enterprise compliance frameworks.*
 
-*   **The Paradox of Digital Literacy: The Role of the Cyber Hygiene Gap in Increasing Social Engineering Susceptibility Among Young Adults in the UAE:** A quantitative multi-phase study ($N=113$) authored by Joshua Renzo Gofulco[cite: 2]. Grounded in Protection Motivation Theory (PMT), the research maps how technical proficiency induces an overconfidence bias that collapses threat appraisals under psychological levers of Authority and Urgency[cite: 2]. Features a localized, tokenized behavioral simulation ($N=25$) measuring real-world click susceptibility and cognitive bypass mechanisms[cite: 2].
+*   **The Paradox of Digital Literacy: The Role of the Cyber Hygiene Gap in Increasing Social Engineering Susceptibility Among Young Adults in the UAE:** A quantitative multi-phase study ($N=113$) authored by Joshua Renzo Gofulco. Grounded in Protection Motivation Theory (PMT), the research maps how technical proficiency induces an overconfidence bias that collapses threat appraisals under psychological levers of Authority and Urgency
     *   [View Research Paper](./01-Governance-Risk-Compliance-and-Law/The_Paradox_of_Digital_Literacy_Joshua_Gofulco.pdf)
-*   **Evaluating Risk and Resilience: A Risk Management Framework for the Pingu Acquisition:** A comprehensive enterprise threat profiling dossier mapping legacy infrastructure vulnerabilities against the MITRE ATT&CK framework[cite: 3]. Analyzes a post-acquisition "Compliance Paradox" to transition an organization from a flat-network topology to a structured Zero Trust Architecture (ZTA) and Defense-in-Depth (DiD) posture using a tri-framework baseline (ISO/IEC 27001, NIST CSF, and Cyber Essentials Plus)[cite: 3].
-    *   [View Risk Management Framework](./02-Offensive-Operations-and-Defensive-Analytics/Risk_Management_Framework_Pingu_Acquisition.pdf)
+*   **Evaluating Risk and Resilience: A Risk Management Framework for the Pingu Acquisition:** Analyzes a post-acquisition "Compliance Paradox" to transition an organization from a flat-network topology to a structured Zero Trust Architecture (ZTA) and Defense-in-Depth (DiD) posture using a tri-framework baseline (ISO/IEC 27001, NIST CSF, and Cyber Essentials Plus).
+    *   [View Risk Management Framework](./01-Governance-Risk-Compliance-and-Law/Risk_Management_Framework_Pingu_Acquisition.pdf)
 
 ---
 
