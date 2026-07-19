@@ -4,7 +4,7 @@
 * This repository serves as a centralized portfolio consolidating my complete work across GRC, cyber offense, defense, digital forensics, IoT security, AI,  and full-stack software engineering. 
 ---
 
-## Core Technical Competencies & Academic Tracking | Courses taken (Overall Weighted Grade 4.0)
+## Core Competencies & Academics | Courses taken (Overall Weighted Grade 4.0)
 * **Fundamentals:** Introduction to Computing, Fundamentals of Cyber Security, Codelab I & II, Web Dev 1, Databases, Software Engineering, Network Administration
 * **Blue Team & Defensive Security:** Digital Forensics, Cyber Resilience, Intrusion Analysis and Response, Cyber Defence, Securing the Internet of Things, Critical Infrastructure
 * **Red Team & Offensive Security:** Cyber Offence
@@ -29,7 +29,7 @@ Analyzes a post-acquisition "Compliance Paradox" to transition an organization f
 *This hands-on technical validation layer demonstrates how simulated attacks are executed to test GRC policies, paired with active defensive tools used to monitor and assess infrastructure safety.*
 
 *   **Cyber Offence Simulations Portfolio:** A technical portfolio detailing the execution of 99 distinct offensive tasks across a 10-week curriculum. Validated advanced scanning evasion, unauthenticated Active Directory/LDAP schema extraction ($T1087.002$), LLMNR/NBT-NS broadcast poisoning ($T1557.001$) via Responder, asynchronous network profiling using sx and Unicornscan, and more.
-    *   [View 390-Page Portfolio](./02-Offensive-Operations-and-Defensive-Analytics/Enterprise_Security_Offense_Labs.pdf)
+    *   [View 390-Page Portfolio](https://docs.google.com/document/d/1AejQFfuJbAlt4ubGGYppA03NVkl1UdHtRSsUFw1xezo/edit?usp=sharing)
 *   **Corporate Security Posture Assessments:** Deep-dive defensive reviews executing vulnerability scans (Nessus, OpenVAS) and active configuration auditing against live networks to calculate CVSS severity thresholds and map out perimeter exposure layers.
     *   [View Security Assessments](./02-Offensive-Operations-and-Defensive-Analytics/Company_Security_Posture_Assessments.pdf)
 
