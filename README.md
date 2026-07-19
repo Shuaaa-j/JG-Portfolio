@@ -6,7 +6,7 @@ This repository serves as a centralized portfolio consolidating my complete work
 
 ---
 
-## Core Technical Competencies & Academic Tracking (Courses taken)
+## Core Technical Competencies & Academic Tracking | Courses taken (Overall Weighted Grade 4.0)
 * **Fundamentals:** Introduction to Computing, Fundamentals of Cyber Security, Codelab I & II, Web Dev 1, Databases, Software Engineering, Network Administration
 * **Blue Team & Defensive Security:** Digital Forensics, Cyber Resilience, Intrusion Analysis and Response, Cyber Defence, Securing the Internet of Things, Critical Infrastructure
 * **Red Team & Offensive Security:** Cyber Offence
