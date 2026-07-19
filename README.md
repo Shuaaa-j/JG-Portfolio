@@ -28,7 +28,7 @@ Analyzes a post-acquisition "Compliance Paradox" to transition an organization f
 ## 📁 02 | Offensive Operations & Defensive Analytics
 *This hands-on technical validation layer demonstrates how simulated attacks are executed to test GRC policies, paired with active defensive tools used to monitor and assess infrastructure safety.*
 
-*   **Enterprise Infrastructure Offense Portfolio (99-Task Lab Report):** A massive, 390-page technical dossier covering Active Directory object extraction, unauthenticated LDAP/NetBIOS enumeration, custom packet crafting via Hping3, and LLMNR local broadcast poisoning.
+*   **Cyber Offence Simulations Portfolio:** A technical portfolio detailing the execution of 99 distinct offensive tasks across a 10-week curriculum. Validated advanced scanning evasion, unauthenticated Active Directory/LDAP schema extraction ($T1087.002$), LLMNR/NBT-NS broadcast poisoning ($T1557.001$) via Responder, asynchronous network profiling using sx and Unicornscan, and more.
     *   [View 390-Page Portfolio](./02-Offensive-Operations-and-Defensive-Analytics/Enterprise_Security_Offense_Labs.pdf)
 *   **Corporate Security Posture Assessments:** Deep-dive defensive reviews executing vulnerability scans (Nessus, OpenVAS) and active configuration auditing against live networks to calculate CVSS severity thresholds and map out perimeter exposure layers.
     *   [View Security Assessments](./02-Offensive-Operations-and-Defensive-Analytics/Company_Security_Posture_Assessments.pdf)
