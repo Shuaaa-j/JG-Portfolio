@@ -14,34 +14,6 @@
 
 ---
 
-## 🛠️ Skills & Project Mapping
-
-| Skill | Associated Project |
-| :--- | :--- |
-| Governance, Risk, Compliance (GRC) & Protection Motivation Theory | [The Paradox of Digital Literacy](#-01--governance-risk-compliance-grc--strategy) |
-| Enterprise Threat Modeling & Zero Trust Architecture (ZTA) | [Risk Management Framework (Pingu Acquisition)](#-01--governance-risk-compliance-grc--strategy) |
-| Penetration Testing, Active Scanning Evasion, & Subnet Profiling | [Cyber Offence Simulations Portfolio](#-02--offensive-operations--defensive-analytics) |
-| Malware Triage, Static/Dynamic Forensic Analysis & Code Deobfuscation | [BriteSpark Enterprise Malware Analysis](#-02--offensive-operations--defensive-analytics) |
-| Deep Learning, Dual-Model Architectures & Adversarial Anomaly Filtering | [FitnessGuard (IoT Biometric Auditor)](#-03--artificial-intelligence--full-stack-software-engineering) |
-| Unsupervised Machine Learning Clustering & Data Preprocessing | [Clustering-Based Intrusion Detection Study](#-03--artificial-intelligence--full-stack-software-engineering) |
-| Secure Desktop Application Development & Cryptographic Vault Design | [OkeyDokey Standalone Desktop Password Manager](#-03--artificial-intelligence--full-stack-software-engineering) |
-| Full-Stack Frontend Engineering & Dynamic UI State Manipulation | [Interactive Gaming Database Web Application](#-03--artificial-intelligence--full-stack-software-engineering) |
-
----
-
-## 🧰 Tools & Technologies
-
-### Network & Defense
-![Wireshark](https://img.shields.io/badge/Wireshark-2B5B84?style=for-the-badge&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-007ACC?style=for-the-badge&logo=nmap&logoColor=white) ![Hping3](https://img.shields.io/badge/Hping3-Red?style=for-the-badge) ![INetSim](https://img.shields.io/badge/INetSim-Grey?style=for-the-badge)
-
-### Endpoint & Forensics
-![Ghidra](https://img.shields.io/badge/Ghidra-Green?style=for-the-badge) ![IDA Pro](https://img.shields.io/badge/IDA_Pro-Black?style=for-the-badge) ![Procmon](https://img.shields.io/badge/Procmon-Blue?style=for-the-badge) ![Responder](https://img.shields.io/badge/Responder-Orange?style=for-the-badge)
-
-### Data Science, AI & Engineering
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
----
-
 ## 📁 01 | Governance, Risk, Compliance (GRC) & Strategy
 *This layer establishes the threat context, user awareness standards, and the operational recovery playbooks mandated by enterprise compliance frameworks.*
 
@@ -78,3 +50,29 @@
     *   🌐 [Live Portfolio Site](https://shuaaa-j.github.io/)
     *   👉 [View Project Documentation](./03-Artificial-Intelligence-&-Full-Stack-Software-Engineering/Web%20Application%20Documentation.pdf)
     *   💻 [Browse Frontend Source Code (GitHub)](https://github.com/Shuaaa-j/Shuaaa-j.github.io.git)
+
+## 🛠️ Skills & Project Mapping
+
+| Skill | Associated Project |
+| :--- | :--- |
+| Governance, Risk, Compliance (GRC) & Protection Motivation Theory | [The Paradox of Digital Literacy](#-01--governance-risk-compliance-grc--strategy) |
+| Enterprise Threat Modeling & Zero Trust Architecture (ZTA) | [Risk Management Framework (Pingu Acquisition)](#-01--governance-risk-compliance-grc--strategy) |
+| Penetration Testing, Active Scanning Evasion, & Subnet Profiling | [Cyber Offence Simulations Portfolio](#-02--offensive-operations--defensive-analytics) |
+| Malware Triage, Static/Dynamic Forensic Analysis & Code Deobfuscation | [BriteSpark Enterprise Malware Analysis](#-02--offensive-operations--defensive-analytics) |
+| Deep Learning, Dual-Model Architectures & Adversarial Anomaly Filtering | [FitnessGuard (IoT Biometric Auditor)](#-03--artificial-intelligence--full-stack-software-engineering) |
+| Unsupervised Machine Learning Clustering & Data Preprocessing | [Clustering-Based Intrusion Detection Study](#-03--artificial-intelligence--full-stack-software-engineering) |
+| Secure Desktop Application Development & Cryptographic Vault Design | [OkeyDokey Standalone Desktop Password Manager](#-03--artificial-intelligence--full-stack-software-engineering) |
+| Full-Stack Frontend Engineering & Dynamic UI State Manipulation | [Interactive Gaming Database Web Application](#-03--artificial-intelligence--full-stack-software-engineering) |
+
+---
+
+## 🧰 Tools & Technologies
+
+### Network & Defense
+![Wireshark](https://img.shields.io/badge/Wireshark-2B5B84?style=for-the-badge&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-007ACC?style=for-the-badge&logo=nmap&logoColor=white) ![Hping3](https://img.shields.io/badge/Hping3-Red?style=for-the-badge) ![INetSim](https://img.shields.io/badge/INetSim-Grey?style=for-the-badge)
+
+### Endpoint & Forensics
+![Ghidra](https://img.shields.io/badge/Ghidra-Green?style=for-the-badge) ![IDA Pro](https://img.shields.io/badge/IDA_Pro-Black?style=for-the-badge) ![Procmon](https://img.shields.io/badge/Procmon-Blue?style=for-the-badge) ![Responder](https://img.shields.io/badge/Responder-Orange?style=for-the-badge)
+
+### Data Science, AI & Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
