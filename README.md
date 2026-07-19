@@ -17,29 +17,37 @@ This repository serves as a centralized portfolio consolidating my complete work
 
 ## Portfolio Directory & Curricular Mapping
 
-### 📁 01 | Cyber Offense, Defense & Intrusion Analysis
-*   **Cyber Offense Operations:** Conducted active network profiling, enterprise domain mapping, and advanced protocol enumeration (LDAP/NetBIOS) to expose structural misconfigurations and test perimeter filtering constraints.
-*   **Cyber Defence & Resilience Engineering:** Designed incident mitigation pipelines, business continuity roadmaps, and hardening frameworks to maintain host availability against targeted infrastructure attacks.
-*   **Intrusion Analysis & Response:** Monitored traffic telemetry using packet analyzers, analyzed real-time indicators of compromise, and reconstructed threat actor pathways through structured log analysis.
-*   **Link to Files:** [Browse Offense & Defense Modules](./01-Security-Assessments-GRC/)
+# Master Portfolio: Cybersecurity, Technical GRC & Systems Engineering
 
-### 📁 02 | Digital Forensics, IoT & Critical Infrastructure
-*   **Digital Forensics Investigations:** Implemented data acquisition protocols, preserved system media integrity, and conducted deep artifact parsing to locate hidden files, timeline events, and residual malware footprints.
-*   **Securing the Internet of Things (IoT):** Evaluated communication vulnerabilities within resource-constrained devices, audited edge transport security layer gaps, and researched defensive firmware access controls.
-*   **Critical Infrastructure Protection:** Studied industrial control environments and SCADA architectures to formulate system-hardening baselines protecting national priority industrial assets.
-*   **Link to Files:** [Browse Forensic & Infrastructure Modules](./02-Research-Papers-Whitepapers/)
+## Executive Summary
+This repository serves as a centralized master portfolio consolidating my technical work across offensive operations, defensive engineering, critical systems security, and data science. The architecture of this repository bridges abstract corporate risk management and governance with hands-on technical exploitation and machine learning threat models.
 
-### 📁 03 | Data Science, Artificial Intelligence & Databases
-*   **Artificial Intelligence Threat Classification:** Designed an automated behavioral classification model trained on public network transaction sets to identify and predict real-time system anomalies.
-*   **Database Management Systems:** Structured relational schemas, mapped relational integrity criteria, and managed secure data storage layouts utilizing optimized transactional querying languages.
-*   **Link to Files:** [Browse AI & Database Modules](./03-Machine-Learning-Threat-Intel/)
+---
 
-### 📁 04 | Software Engineering & Web Applications
-*   **Full-Stack Application Development (Web Dev 1, CodeLab I & II):** Programmed scalable frontend interfaces and backend utility tools across Python, PHP, and JavaScript environments, explicitly enforcing strict input filtering and secure coding design methodologies.
-*   **Software Engineering Methodologies:** Implemented Agile development lifecycles, structured comprehensive system logic architecture patterns, and produced end-to-end documentation records.
-*   **Link to Code:** [Browse Application Code](./04-Web-Applications-Engineering/)
+## 📁 01 | Governance, Risk, Compliance (GRC) & Strategy
+*This layer establishes the threat context, user awareness standards, and the operational recovery playbooks mandated by enterprise compliance frameworks.*
 
-### 📁 05 | Research, Law, Ethics & Governance
-*   **Cyber Crime, Law & Ethics:** Evaluated international legal benchmarks, regional security mandates (including NESA/UAE Information Assurance Regulations), and technical liability limitations impacting digital investigations.
-*   **Capston Research Project:** A formal, peer-reviewed technical whitepaper detailing a comprehensive system risk analysis, defense validation, and environmental resilience proof-of-concept.
-*   **Link to Documentation:** [Browse Research & Law Publications](./05-Research-Law-Ethics/)
+*   **Human-Vector Vulnerability Analysis (Phishing Research Paper):** A comprehensive research paper evaluating psychological pretexts, social engineering execution mechanics, and corporate defensive training frameworks designed to mitigate credential harvesting.
+    *   [View Research Paper](./01-Governance-Risk-Compliance-and-Law/Research_Paper_Phishing.pdf)
+*   **Enterprise Incident Response & Recovery Frameworks:** Structured disaster recovery plans and intrusion response playbooks detailing system containment, evidence preservation, and business continuity baselines following critical perimeter compromises.
+    *   [View Recovery Plans](./01-Governance-Risk-Compliance-and-Law/Intrusion_Analysis_Recovery_Plans.pdf)
+
+---
+
+## 📁 02 | Offensive Operations & Defensive Analytics
+*This hands-on technical validation layer demonstrates how simulated attacks are executed to test GRC policies, paired with active defensive tools used to monitor and assess infrastructure safety.*
+
+*   **Enterprise Infrastructure Offense Portfolio (99-Task Lab Report):** A massive, 390-page technical dossier covering Active Directory object extraction, unauthenticated LDAP/NetBIOS enumeration, custom packet crafting via Hping3, and LLMNR local broadcast poisoning.
+    *   [View 390-Page Portfolio](./02-Offensive-Operations-and-Defensive-Analytics/Enterprise_Security_Offense_Labs.pdf)
+*   **Corporate Security Posture Assessments:** Deep-dive defensive reviews executing vulnerability scans (Nessus, OpenVAS) and active configuration auditing against live networks to calculate CVSS severity thresholds and map out perimeter exposure layers.
+    *   [View Security Assessments](./02-Offensive-Operations-and-Defensive-Analytics/Company_Security_Posture_Assessments.pdf)
+
+---
+
+## 📁 03 | Software, Automation & Systems Engineering
+*The building and automation layer. This section focuses on secure systems design and leveraging artificial intelligence to scale threat detection mechanisms.*
+
+*   **AI-Driven Network Intrusion Detection Systems:** Deployed machine learning classification pipelines and behavioral modeling scripts engineered to identify and isolate real-time network anomalies and malicious traffic signatures.
+    *   [Browse AI Source Code](./03-Software-and-Systems-Engineering/AI_Intrusion_Detection_Models/)
+*   **Curated Threat Intelligence Datasets:** Structured data repositories and traffic feature sets utilized to train, test, and validate the precision limits of automated behavioral detection algorithms.
+    *   [Browse Datasets](./03-Software-and-Systems-Engineering/Datasets/)
