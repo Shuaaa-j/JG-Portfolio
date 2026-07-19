@@ -87,8 +87,6 @@
 ---
 
 ## 🧰 Tools & Technologies
-![Learning](https://img.shields.io/badge/Learning-Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Learning](https://img.shields.io/badge/Learning-Microsoft%20Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### Operating Systems & Virtualization Infrastructure
 ![Windows OS](https://img.shields.io/badge/Windows_OS-0078D4?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-60BE1B?style=for-the-badge&logo=vmware&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
