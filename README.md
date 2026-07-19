@@ -1,6 +1,10 @@
 # JG Master Portfolio: Cybersecurity, Artificial Intelligence & IT Fundamentals
 Welcome to Joshua's portfolio! 👋 For any inquiries, feel free to message @ JoshuaGofulco246@gmail.com
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=gradient&height=140&section=header&text=%22Education%20is%20the%20most%20powerful%20weapon%20which%20you%20can%20use%20to%20change%20the%20world.%22&fontSize=22&fontAlignY=45&desc=—%20Nelson%20Mandela&descSize=15&descAlignX=80&descAlignY=75" alt="Nelson Mandela Quote Banner" />
+</p>
+
 ## 🏅 Certifications & Current Focus
 ![Studying](https://img.shields.io/badge/Studying-Microsoft%20SC--300-blue?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Studying](https://img.shields.io/badge/Studying-CompTIA%20Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white)
