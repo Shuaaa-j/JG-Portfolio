@@ -16,9 +16,11 @@ This repository serves as a centralized portfolio consolidating my complete work
 ## 📁 01 | Governance, Risk, Compliance (GRC) & Strategy
 *This layer establishes the threat context, user awareness standards, and the operational recovery playbooks mandated by enterprise compliance frameworks.*
 
-*   **The Paradox of Digital Literacy: The Role of the Cyber Hygiene Gap in Increasing Social Engineering Susceptibility Among Young Adults in the UAE:** A quantitative multi-phase study ($N=113$) authored by Joshua Renzo Gofulco. Grounded in Protection Motivation Theory (PMT), the research maps how technical proficiency induces an overconfidence bias that collapses threat appraisals under psychological levers of Authority and Urgency
-    *   [View Research Paper](./01-Governance-Risk-Compliance-and-Law/The_Paradox_of_Digital_Literacy_Joshua_Gofulco.pdf)
-*   **Evaluating Risk and Resilience: A Risk Management Framework for the Pingu Acquisition:** Analyzes a post-acquisition "Compliance Paradox" to transition an organization from a flat-network topology to a structured Zero Trust Architecture (ZTA) and Defense-in-Depth (DiD) posture using a tri-framework baseline (ISO/IEC 27001, NIST CSF, and Cyber Essentials Plus).
+*   **The Paradox of Digital Literacy: The Role of the Cyber Hygiene Gap in Increasing Social Engineering Susceptibility Among Young Adults in the UAE:** 
+A quantitative multi-phase study ($N=113$) authored by Joshua Renzo Gofulco. Grounded in Protection Motivation Theory (PMT), the research maps how technical proficiency induces an overconfidence bias that collapses threat appraisals under psychological levers of Authority and Urgency
+    *   [View Research Paper](./01-Governance-Risk-Compliance-and-Law/Research_Paper_Phishing.pdf.pdf)
+*   **Evaluating Risk and Resilience: A Risk Management Framework for the Pingu Acquisition:** 
+Analyzes a post-acquisition "Compliance Paradox" to transition an organization from a flat-network topology to a structured Zero Trust Architecture (ZTA) and Defense-in-Depth (DiD) posture using a tri-framework baseline (ISO/IEC 27001, NIST CSF, and Cyber Essentials Plus).
     *   [View Risk Management Framework](./01-Governance-Risk-Compliance-and-Law/Risk_Management_Framework_Pingu_Acquisition.pdf)
 
 ---
