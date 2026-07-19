@@ -15,15 +15,6 @@ This repository serves as a centralized portfolio consolidating my complete work
 
 ---
 
-## Portfolio Directory & Curricular Mapping
-
-# Master Portfolio: Cybersecurity, Technical GRC & Systems Engineering
-
-## Executive Summary
-This repository serves as a centralized master portfolio consolidating my technical work across offensive operations, defensive engineering, critical systems security, and data science. The architecture of this repository bridges abstract corporate risk management and governance with hands-on technical exploitation and machine learning threat models.
-
----
-
 ## 📁 01 | Governance, Risk, Compliance (GRC) & Strategy
 *This layer establishes the threat context, user awareness standards, and the operational recovery playbooks mandated by enterprise compliance frameworks.*
 
