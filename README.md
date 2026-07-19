@@ -1,7 +1,7 @@
 # Master Portfolio: Cybersecurity, Artificial Intelligence & IT Fundamentals
 
 ## Executive Summary
-This repository serves as a centralized portfolio consolidating my complete work across GRC, cyber offense, defense, digital forensics, IoT security, AI,  and full-stack software engineering. 
+* This repository serves as a centralized portfolio consolidating my complete work across GRC, cyber offense, defense, digital forensics, IoT security, AI,  and full-stack software engineering. 
 ---
 
 ## Core Technical Competencies & Academic Tracking | Courses taken (Overall Weighted Grade 4.0)
