@@ -35,10 +35,17 @@ Analyzes a post-acquisition "Compliance Paradox" to transition an organization f
 
 ---
 
-## 📁 03 | Software, Automation & Systems Engineering
-*The building and automation layer. This section focuses on secure systems design and leveraging artificial intelligence to scale threat detection mechanisms.*
+## 📁 03 | Artificial Intelligence & Full-Stack Software Engineering
+*The building and automation layer. This section focuses on secure systems design, full-stack software development, and leveraging machine learning and deep learning to scale threat detection mechanisms.*
 
-*   **AI-Driven Network Intrusion Detection Systems:** Deployed machine learning classification pipelines and behavioral modeling scripts engineered to identify and isolate real-time network anomalies and malicious traffic signatures.
-    *   [Browse AI Source Code](./03-Software-and-Systems-Engineering/AI_Intrusion_Detection_Models/)
-*   **Curated Threat Intelligence Datasets:** Structured data repositories and traffic feature sets utilized to train, test, and validate the precision limits of automated behavioral detection algorithms.
-    *   [Browse Datasets](./03-Software-and-Systems-Engineering/Datasets/)
+*   **FitnessGuard: A Hardened IoT Biometric Auditor for National Security and Military Readiness:** An Internet of Battlefield Things (IoBT) security solution deploying a dual-model machine learning pipeline[cite: 8]. Implements a Random Forest noise filter alongside a 3-layer deep Multi-Layer Perceptron (MLP) feed-forward neural network to achieve an ROC-AUC of 0.83 against non-linear adversarial data poisoning[cite: 8]. Features a SHA-256 cryptographic integrity gate provenance check and statistical Z-score anomaly filtering via SciPy[cite: 8].
+    *   [View IoT Security Paper (Google Docs)](https://docs.google.com/document/d/1AejQFfuJbAlt4ubGGYppA03NVkl1UdHtRSsUFw1xezo/edit?usp=sharing)
+*   **Clustering-Based Intrusion Detection Study:** An unsupervised machine learning study evaluating K-Means and Agglomerative Hierarchical Clustering algorithms using the `CICIDS2017` network traffic dataset[cite: 1]. Assesses structural trade-offs between computational scalability and cluster interpretability across both unsupervised (Silhouette/Davies-Bouldin) and supervised performance metrics, backed by an interactive Streamlit application deployment[cite: 1].
+    *   [View Research Paper (Google Docs)](https://docs.google.com/document/d/10F44hxbsLVWhwlg7-eyq2He6VPPl1SBfvyxOcUkJ56Y/edit?usp=sharing)
+*   **OkeyDokey Standalone Desktop Password Manager:** A secure, decentralized desktop credential vault developed in Python under the Scrum Agile framework[cite: 6]. Features strict local AES-256 equivalent data encryption (Fernet), cryptographic PIN-protected verification loops, an automated password complexity generator, and complete CRUD record operations, operating entirely offline to eliminate third-party dependencies[cite: 6].
+    *   [View Software Engineering Documentation (Google Docs)](https://docs.google.com/document/d/1tDGixvaKnRGCzLkrslvUU9QSMP-h_zuTmBlACB4xp78/edit?usp=sharing)
+    *   [Browse App Source Code (GitHub)](https://github.com/EurekaAUH/PasswordManager.git)
+*   **Interactive Gaming Database Web Application:** A responsive multi-page web platform utilizing HTML5, CSS3, and JavaScript, hosted entirely on GitHub Pages[cite: 7]. Features complex frontend components including asynchronous character array filtering, dynamic pop-up layouts, custom interactive cursor mechanics, and visual parallax scrolling effects designed to optimize user engagement[cite: 7].
+    *   [Live Portfolio Site](https://shuaaa-j.github.io/)
+    *   [View Project Documentation (Google Docs)](https://docs.google.com/document/d/1oZpiH5ufR8wcnC8x5wOkBLIDMoil7ziLr3c7AuwXpyo/edit?usp=sharing)
+    *   [Browse Frontend Source Code (GitHub)](https://github.com/Shuaaa-j/Shuaaa-j.github.io.git)
