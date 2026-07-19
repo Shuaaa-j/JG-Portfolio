@@ -48,7 +48,7 @@
 *   **BriteSpark Enterprise Malware Analysis:** Static and dynamic forensic analysis of `SampleMal.exe` using Ghidra, IDA Pro, and an isolated INetSim environment[cite: 4]. Traced file system manipulation, registry persistence ($T1547.001$), and outbound FTP data exfiltration ($T1041$), using local DNS redirection and Netcat on port 21 to intercept credentials.
     *   👉 [View Vulnerability Assessment Report](./02-Cyber-Offence-&-Defence/Network%20Intrusion%20Analysis%20Report.pdf)
 *   **Digital Forensic Investigation Report:** A comprehensive corporate investigation detailing the forensic acquisition and deep artifact analysis of an employee workstation linked to unauthorized data transfers, appropriate behavior tracking, and policy/UAE law violations. Implemented a forensically sound workflow utilizing FTK Imager for bit-stream disk acquisition and Autopsy for processing registry hives, shellbags, web cache records, and hidden partitions. Traced usage of illicit utility suites (LOIC, Sleuth Kit, COFFEE, Spam Mimic, and PDF password crackers) to document evidence chains and construct a legally sustainable timeline.
-    *   👉 [View Forensic Investigation Report (PDF)](./02-Cyber-Offence-&-Defence/Digital_Forensic_Investigation_Report.pdf)
+    *   👉 [View Forensic Investigation Report (PDF)](./02-Cyber-Offence-&-Defence/Digital%Forensic%Investigation%Report.pdf)
 
 ---
 
