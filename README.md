@@ -30,8 +30,8 @@ Analyzes a post-acquisition "Compliance Paradox" to transition an organization f
 
 *   **Cyber Offence Simulations Portfolio:** A technical portfolio detailing the execution of 99 distinct offensive tasks across a 10-week curriculum. Validated advanced scanning evasion, unauthenticated Active Directory/LDAP schema extraction ($T1087.002$), LLMNR/NBT-NS broadcast poisoning ($T1557.001$) via Responder, asynchronous network profiling using sx and Unicornscan, and more.
     *   [View 390-Page Portfolio](https://docs.google.com/document/d/1AejQFfuJbAlt4ubGGYppA03NVkl1UdHtRSsUFw1xezo/edit?usp=sharing)
-*   **Corporate Security Posture Assessments:** Deep-dive defensive reviews executing vulnerability scans (Nessus, OpenVAS) and active configuration auditing against live networks to calculate CVSS severity thresholds and map out perimeter exposure layers.
-    *   [View Security Assessments](./02-Offensive-Operations-and-Defensive-Analytics/Company_Security_Posture_Assessments.pdf)
+*   **BriteSpark Enterprise Malware Triage & Dynamic Analysis (Trojan Downloader Dossier):** Static and dynamic forensic analysis of `SampleMal.exe` using Ghidra, IDA Pro, and an isolated INetSim environment. Traced file system manipulation, registry persistence ($T1547.001$), and outbound FTP data exfiltration ($T1041$), using local DNS redirection and Netcat on port 21 to intercept credentials.
+    *   [View Vulnerability Assessment Report](PASTE_YOUR_DOCS_LINK_HERE)
 
 ---
 
