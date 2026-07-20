@@ -7,9 +7,9 @@ Welcome to Joshua's portfolio! 👋 For any inquiries, feel free to contact me a
 
 أهلاً بك في ملف أعمال جوشوا! 👋 للتواصل وإرسال أي استفسارات، يمكنك مراسلتي على البريد الإلكتروني: [JoshuaGofulco246@gmail.com](mailto:JoshuaGofulco246@gmail.com)
 ### 💻 About Me & Career Goals
-I am the Top 1 ranked cybersecurity student at my university, highly focused on entering the cyber workforce, building hands-on experience, and ultimately growing into a GRC specialist. I have a deep focus on building frameworks that turn complex security controls into practical business risk strategies, backed by a highly hands-on technical background ranging from running offensive network simulations to breaking down malware and reconstructing forensic timelines.
+I am the **Top 1 ranked cybersecurity student** at my university, highly focused on entering the cyber workforce, building hands-on experience, and ultimately growing into a **GRC specialist**. I have a deep focus on **building frameworks that turn complex security controls into practical business risk strategies**, backed by a highly hands-on technical background ranging from running **offensive network simulations** to **breaking down malware** and **reconstructing forensic timelines**.
 
-Outside of tech, my leadership comes from real-world coordination. As a varsity chess captain, I know how to calculate risk and think steps ahead under pressure. As a community outreach chairperson, I routinely manage partnerships and fundraisers to help others. I am looking for an opportunity where I can combine this team leadership, strategic thinking, and security engineering background to protect enterprise infrastructure.
+Outside of tech, my leadership comes from real-world coordination. As a **varsity chess captain**, I know how to **calculate risk and think steps ahead under pressure**. As a **community outreach chairperson**, I routinely **manage partnerships and fundraisers** to help others. I am looking for an opportunity where I can combine this **team leadership, strategic thinking, and security engineering background** to protect enterprise infrastructure.
 
 ## 🏅 Certifications & Current Focus
 ![Studying](https://img.shields.io/badge/Studying-Microsoft%20SC--300-blue?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -80,7 +80,7 @@ Outside of tech, my leadership comes from real-world coordination. As a varsity 
     *   👉 [View Software Engineering Documentation](./03-Artificial-Intelligence-&-Full-Stack-Software-Engineering/OkeyDokey%20Software%20Engineering.pdf)
     *   💻 [Browse App Source Code (GitHub)](https://github.com/EurekaAUH/PasswordManager.git)
 *   **Interactive Gaming Database Web Application:** A responsive multi-page web platform utilizing HTML5, CSS3, and JavaScript, hosted entirely on GitHub Pages. Features complex frontend components including asynchronous character array filtering, dynamic pop-up layouts, custom interactive cursor mechanics, and visual parallax scrolling effects designed to optimize user engagement.
-    *   🌐 [Live Portfolio Site](https://shuaaa-j.github.io/)
+    *   🌐 [Live Portfolio Site](https://shuaaa-j.github.io/) (Not Mobile Friendly)
     *   👉 [View Project Documentation](./03-Artificial-Intelligence-&-Full-Stack-Software-Engineering/Web%20Application%20Documentation.pdf)
     *   💻 [Browse Frontend Source Code (GitHub)](https://github.com/Shuaaa-j/Shuaaa-j.github.io.git)
 
