@@ -5,7 +5,7 @@
 
 Welcome to Joshua's portfolio! 👋 For any inquiries, feel free to contact me at [JoshuaGofulco246@gmail.com](mailto:JoshuaGofulco246@gmail.com).
 
-أهلاً بك في ملف أعمال جوشوا! 👋 للتواصل وإرسال أي استفسارات، يمكنك مراسلتي على البريد الإلكتروني: [JoshuaGofulco246@gmail.com](mailto:JoshuaGofulco246@gmail.com)
+أهلاً بك في ملف أعمال جوشوا! 👋 للتواصل أو إرسال رسالة، يمكنك مراسلتي عبر البريد الالكترونى: [JoshuaGofulco246@gmail.com](mailto:JoshuaGofulco246@gmail.com)
 ### 💻 About Me & Career Goals
 I am the **Top 1 ranked cybersecurity student** at my university, highly focused on entering the cyber workforce, building hands-on experience, and ultimately growing into a **GRC specialist**. I have a deep focus on **building frameworks that turn complex security controls into practical business risk strategies**, backed by a highly hands-on technical background ranging from running **offensive network simulations** to **breaking down malware** and **reconstructing forensic timelines**.
 
