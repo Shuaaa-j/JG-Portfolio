@@ -38,7 +38,7 @@ Outside of tech, my leadership comes from real-world coordination. As a **varsit
 * **Advanced Technologies & Research:** Artificial Intelligence, Research Project
 
 ---
-## NOTE: Preview fails on mobile devices; a download may be necessary to access files. Access from computers is recommended.
+## NOTE: Github preview fails on mobile devices; a download may be necessary to access files. Access from computers is recommended.
 ## 📁 01 | Governance, Risk, Compliance (GRC) & Strategy
 *This layer establishes the threat context, user awareness standards, and the operational recovery playbooks mandated by enterprise compliance frameworks.*
 
