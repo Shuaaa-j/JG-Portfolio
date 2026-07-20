@@ -60,6 +60,8 @@ Outside of tech, my leadership comes from real-world coordination. As a varsity 
     *   👉 [View Vulnerability Assessment Report](./02-Cyber-Offence-&-Defence/Network%20Intrusion%20Analysis%20Report.pdf)
 *   **Digital Forensic Investigation Report:** A comprehensive corporate investigation detailing the forensic acquisition and deep artifact analysis of an employee workstation linked to unauthorized data transfers, appropriate behavior tracking, and policy/UAE law violations. Implemented a forensically sound workflow utilizing FTK Imager for bit-stream disk acquisition and Autopsy for processing registry hives, shellbags, web cache records, and hidden partitions. Traced usage of illicit utility suites (LOIC, Sleuth Kit, COFFEE, Spam Mimic, and PDF password crackers) to document evidence chains and construct a legally sustainable timeline.
     *   👉 [View Forensic Investigation Report (PDF)](./02-Cyber-Offence-&-Defence/Digital%20Forensic%20Investigation%20Report.pdf)
+    *   **Enterprise Log Analysis & Threat Detection (Splunk SIEM):** Engineered an end-to-end log aggregation and security analytics pipeline inside Splunk Enterprise to monitor corporate authentication data. Ingested audit logs (`sample_logins.csv`) and deployed SPL queries to isolate high-density credential probing, track unmapped external IP addresses, and flag automated off-hour attacks or password spray compromises. Synthesized ingest patterns into an active main dashboard to turn raw event logs into actionable security insights.
+    *   👉 [View Splunk Project Report (PDF)](./02-Cyber-Offence-&-Defence/Cyber%20Security%20Project_%20Splunk%20Ignite.pdf)
 ---
 
 ## 📁 03 | Artificial Intelligence & Full-Stack Software Engineering
