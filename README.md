@@ -6,6 +6,11 @@
 Welcome to Joshua's portfolio! 👋 For any inquiries, feel free to contact me at [JoshuaGofulco246@gmail.com](mailto:JoshuaGofulco246@gmail.com).
 
 أهلاً بك في ملف أعمال جوشوا! 👋 للتواصل وإرسال أي استفسارات، يمكنك مراسلتي على البريد الإلكتروني: [JoshuaGofulco246@gmail.com](mailto:JoshuaGofulco246@gmail.com)
+### 💻 About Me & Career Goals
+I am a top-ranked cybersecurity student focused on entering the cyber workforce, building hands-on experience, and ultimately growing into a Governance, Risk, and Compliance (GRC) specialist. My technical background spans offensive simulations, DFIR timeline reconstruction, and designing risk mitigation frameworks. 
+
+Outside of tech, my leadership comes from real-world coordination. As a varsity chess captain, I know how to calculate risk and think steps ahead under pressure. As a community outreach chairperson, I routinely manage partnerships and fundraisers to help others. I am looking for an opportunity where I can combine this team leadership, strategic thinking, and security engineering background to protect enterprise infrastructure.
+
 ## 🏅 Certifications & Current Focus
 ![Studying](https://img.shields.io/badge/Studying-Microsoft%20SC--300-blue?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Studying](https://img.shields.io/badge/Studying-CompTIA%20Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white)
